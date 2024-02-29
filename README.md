@@ -3,7 +3,7 @@ This work summarizes my extensive cloud-scale software development as well as re
 
 All these years, I have been involved in the strategic planning and execution of technology initiatives related to cloud/distributed computing & AI/ML infrastructure, including a wide range of technologies such as compute, networking, storage and computer architecture.
 
-The following links cover a summary of cloud-scale software platform development from architectural/design perspective. To go along with that, I have captured a summary of programming level design principles/patterns (including sample code).
+The following links cover a summary of cloud-scale software platform development from architectural/design perspective. To go along with that, I have captured a summary of programming level design principles/patterns I have leveraged while architecting & designing large scale distributed systems (including sample code).
 
 The “AI” link, on the other hand, covers my perspective on various aspects of ongoing AI related technology & trends.
 
