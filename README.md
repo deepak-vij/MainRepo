@@ -7,6 +7,6 @@ The following links cover a summary of cloud-scale software platform development
 
 The “AI” link, on the other hand, covers my perspective on various aspects of ongoing AI related technology & trends.
 
-- [Software Design Principles & Guidelines](../DesignPrinciples/README.md)
+- [Software Design Principles & Guidelines](https://github.com/deepak-vij/DesignPrinciples/blob/main/README.md)
 <br><br>
-- [Artificial Intelligence](../AIRepo/README.md)
+- [Artificial Intelligence](https://github.com/deepak-vij/AIRepo/blob/main/README.md)
