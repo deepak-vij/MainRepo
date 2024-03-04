@@ -3,7 +3,7 @@ This work summarizes my extensive cloud-scale software development as well as re
 
 All these years, I have been involved in the strategic planning and execution of technology initiatives related to cloud/distributed computing & AI/ML infrastructure, including a wide range of technologies such as compute, networking, storage and computer architecture.
 
-The “Artificial Intelligence (AI)” link, on the other hand, covers my perspective on various aspects of ongoing AI related technology & trends based on the extensive work I recently did for a start-up AI company.
+The “Artificial Intelligence (AI)” link, on the other hand, covers my perspective on various aspects of ongoing AI related technology & trends based on the extensive work I recently did for a start-up AI company, including sample code examples.
 
 - [Software Design Principles & Guidelines](https://github.com/deepak-vij/DesignPrinciples/blob/main/README.md)
 <br><br>
