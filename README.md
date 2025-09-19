@@ -7,4 +7,4 @@ The “Artificial Intelligence (AI)” link, on the other hand, covers my perspe
 
 - [Software Design Principles & Guidelines](https://github.com/deepak-vij/DesignPrinciples/blob/main/README.md)
 <br><br>
-- [Artificial Intelligence](https://github.com/deepak-vij/AIRepo/blob/main/README.md)
+- [Artificiallly Intelligence](https://github.com/deepak-vij/AIRepo/blob/main/README.md)
